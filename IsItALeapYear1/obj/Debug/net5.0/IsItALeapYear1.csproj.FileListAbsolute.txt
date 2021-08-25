@@ -1,0 +1,16 @@
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\bin\Debug\net5.0\IsItALeapYear1.exe
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\bin\Debug\net5.0\IsItALeapYear1.deps.json
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\bin\Debug\net5.0\IsItALeapYear1.runtimeconfig.json
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\bin\Debug\net5.0\IsItALeapYear1.runtimeconfig.dev.json
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\bin\Debug\net5.0\IsItALeapYear1.dll
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\bin\Debug\net5.0\ref\IsItALeapYear1.dll
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\bin\Debug\net5.0\IsItALeapYear1.pdb
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\obj\Debug\net5.0\IsItALeapYear1.csprojAssemblyReference.cache
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\obj\Debug\net5.0\IsItALeapYear1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\obj\Debug\net5.0\IsItALeapYear1.AssemblyInfoInputs.cache
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\obj\Debug\net5.0\IsItALeapYear1.AssemblyInfo.cs
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\obj\Debug\net5.0\IsItALeapYear1.csproj.CoreCompileInputs.cache
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\obj\Debug\net5.0\IsItALeapYear1.dll
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\obj\Debug\net5.0\ref\IsItALeapYear1.dll
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\obj\Debug\net5.0\IsItALeapYear1.pdb
+C:\Users\akhil\source\repos\IsItALeapYear1\IsItALeapYear1\obj\Debug\net5.0\IsItALeapYear1.genruntimeconfig.cache
